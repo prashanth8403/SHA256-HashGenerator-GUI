@@ -1,4 +1,4 @@
-HashGenerator(SHA256)
+C# HashGenerator(SHA256)
 -----------------------------------------
 
-This is a HashGenerator application calculates hash of a given string. 
+This is a HashGenerator application written in C#,calculates the hash of a string.
